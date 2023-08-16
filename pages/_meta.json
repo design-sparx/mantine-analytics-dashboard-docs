@@ -1,0 +1,13 @@
+{
+  "welcome": {
+    "title": "Welcome"
+  },
+  "getting-started": "Getting Started",
+  "contact": "Contact",
+  "github_link": {
+    "title": "Docs",
+    "href": "https://github.com/shuding/nextra",
+    "type": "page",
+    "newWindow": true
+  }
+}
