@@ -2,6 +2,7 @@ import {useRouter} from "next/router";
 import {useConfig} from 'nextra-theme-docs'
 
 export default {
+    docsRepositoryBase: 'https://github.com/design-sparx/mantine-analytics-dashboard-docs',
     useNextSeoProps() {
         const {asPath} = useRouter()
         if (asPath !== '/') {
@@ -52,5 +53,5 @@ export default {
         toggleButton: true,
         autoCollapse: true
     },
-    editLink: false
+    editLink: false,
 }
