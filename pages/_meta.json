@@ -1,7 +1,5 @@
 {
-  "index": {
-    "title": "Welcome"
-  },
+  "index": "Welcome",
   "getting-started": "Getting Started",
-  "contact": "Contact",
+  "contact": "Contact"
 }
