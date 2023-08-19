@@ -1,7 +1,5 @@
 import {useRouter} from "next/router";
 import {useConfig} from 'nextra-theme-docs'
-import Favicon32 from "./static/favicon-32x32.png";
-import Favicon16 from "./static/favicon-16x16.png";
 
 export default {
     useNextSeoProps() {
@@ -40,7 +38,7 @@ export default {
         )
     },
     project: {
-        link: 'https://github.com/shuding/nextra'
+        link: 'https://github.com/design-sparx/mantine-analytics-dashboard-docs'
     },
     logo: (
         <>
